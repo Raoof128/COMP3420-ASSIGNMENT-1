@@ -1,0 +1,36 @@
+# CIFAR-10 Dataset files (too large for GitHub)
+data/
+*.tar.gz
+*.pickle
+*.pkl
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+.venv
+env/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large model files
+*.pth
+*.pt
+*.h5
+*.weights
