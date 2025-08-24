@@ -1,7 +1,7 @@
 # CIFAR-10 Image Classification: CNNs vs Transfer Learning
 
 **COMP3420 Assignment 1**  
-**Student ID:** MQ47990805
+**Student ID:**47990805
 
 ## Overview
 
@@ -38,21 +38,21 @@ COMP3420-ASSIGNMENT-1/
 └── data/                    # CIFAR-10 dataset (auto-downloaded)
 ```
 
-## Assignment Tasks Completed (35/35 marks)
+## Assignment Tasks Completed
 
-### Core Implementation (25 marks)
-- **Task 1:** Balanced data subset (1000 samples/class) - 4 marks
-- **Task 2:** Custom CNN with 7 convolutional layers - 5 marks  
-- **Task 3:** MobileNetV2 transfer learning setup - 4 marks
-- **Task 4:** Modular training function - 4 marks
-- **Task 5:** Model evaluation on test set - 3 marks
-- **Task 6:** Confusion matrices with proper labeling - 3 marks
-- **Task 7:** Clean, reproducible code - 2 marks
+### Core Implementation
+- **Task 1:** Balanced data subset (1000 samples per class)
+- **Task 2:** Custom CNN with 7 convolutional layers
+- **Task 3:** MobileNetV2 transfer learning setup
+- **Task 4:** Modular training function
+- **Task 5:** Model evaluation on test set
+- **Task 6:** Confusion matrices with proper labeling
+- **Task 7:** Clean, reproducible code
 
-### Analysis & Discussion (10 marks)
-- **Task 8:** Performance analysis (accuracy, convergence, trade-offs) - 4 marks
-- **Task 9:** Misclassification analysis with visualizations - 3 marks
-- **Task 10:** Efficiency commentary (size, speed, deployment) - 3 marks
+### Analysis & Discussion
+- **Task 8:** Performance analysis (accuracy, convergence, trade-offs)
+- **Task 9:** Misclassification analysis with visualizations
+- **Task 10:** Efficiency commentary (size, speed, deployment)
 
 ## Technical Implementation
 
